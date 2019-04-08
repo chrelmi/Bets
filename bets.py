@@ -28,7 +28,7 @@ vt=0
 squadracs=input("\nInserisci la squadra di casa:  ")
 squadratr=input("Inserisci la squadra in trasferta:  ")
 #picchetto tecnico
-with open('seriea.csv') as csvfile:
+with open('premier.csv') as csvfile:
 	r=csv.DictReader(csvfile)
 	for row in r:
 		data=row['DATA']
@@ -47,7 +47,7 @@ with open('seriea.csv') as csvfile:
 					countpcs=countpcs+1
 
 print("----------------------------------------------------------------------------------------------")
-with open('seriea.csv') as csvfile:
+with open('premier.csv') as csvfile:
 	r=csv.DictReader(csvfile)
 	for row in r:
 		data=row['DATA']
