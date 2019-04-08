@@ -9,6 +9,13 @@ import csv
 import time
 from datetime import datetime
 from decimal import Decimal
+import tkinter
+from tkinter import *
+window=Tk()
+window.title("Picchetto tecnico")
+window.geometry("800x400")
+window.mainloop()
+
 
 countcs=0
 countvc=0
@@ -27,8 +34,10 @@ vt=0
 
 squadracs=input("\nInserisci la squadra di casa:  ")
 squadratr=input("Inserisci la squadra in trasferta:  ")
+file=input("File:  ")
+file=file+".csv"
 #picchetto tecnico
-with open('premier.csv') as csvfile:
+with open(file) as csvfile:
 	r=csv.DictReader(csvfile)
 	for row in r:
 		data=row['DATA']
@@ -47,7 +56,7 @@ with open('premier.csv') as csvfile:
 					countpcs=countpcs+1
 
 print("----------------------------------------------------------------------------------------------")
-with open('premier.csv') as csvfile:
+with open(file) as csvfile:
 	r=csv.DictReader(csvfile)
 	for row in r:
 		data=row['DATA']
@@ -131,3 +140,4 @@ picchettotr=str(picchettotr)
 print("Pic 1: "+picchettocs+"%"+"\nPic X: "+picchettox+"%"+"\nPic 2: "+picchettotr+"%")
 print("QUOTE FINALI:     1       X       2")
 print("                "+quotacasa+"    "+quotax+"     "+quotatr)
+
