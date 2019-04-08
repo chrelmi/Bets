@@ -1,0 +1,253 @@
+DATA,CASA,TRASFERTA,GOLCS,GOLTR
+10/08/2018,Benfica,Guimaraes,3,2
+11/08/2018,Porto,Chaves,5,0
+11/08/2018,Setubal,Aves,2,0
+11/08/2018,Tondela,Belenenses,0,1
+12/08/2018,Feirense,Rio Ave,2,0
+12/08/2018,Maritimo,Santa Clara,1,0
+12/08/2018,Moreirense,Sp Lisbon,1,3
+12/08/2018,Sp Braga,Nacional,4,2
+13/08/2018,Portimonense,Boavista,0,2
+17/08/2018,Aves,Tondela,2,2
+18/08/2018,Boavista,Benfica,0,2
+18/08/2018,Chaves,Portimonense,2,0
+18/08/2018,Sp Lisbon,Setubal,2,1
+19/08/2018,Belenenses,Porto,2,3
+19/08/2018,Nacional,Moreirense,1,2
+19/08/2018,Rio Ave,Maritimo,3,1
+19/08/2018,Santa Clara,Sp Braga,3,3
+20/08/2018,Guimaraes,Feirense,0,1
+24/08/2018,Maritimo,Chaves,2,1
+25/08/2018,Benfica,Sp Lisbon,1,1
+25/08/2018,Portimonense,Santa Clara,2,2
+25/08/2018,Porto,Guimaraes,2,3
+26/08/2018,Feirense,Boavista,1,1
+26/08/2018,Setubal,Nacional,1,2
+26/08/2018,Sp Braga,Aves,3,1
+26/08/2018,Tondela,Rio Ave,1,1
+27/08/2018,Moreirense,Belenenses,1,1
+31/08/2018,Chaves,Sp Braga,0,1
+31/08/2018,Guimaraes,Tondela,1,0
+01/09/2018,Belenenses,Setubal,0,0
+01/09/2018,Santa Clara,Boavista,4,2
+01/09/2018,Sp Lisbon,Feirense,1,0
+02/09/2018,Aves,Maritimo,0,1
+02/09/2018,Nacional,Benfica,0,4
+02/09/2018,Porto,Moreirense,3,0
+02/09/2018,Rio Ave,Portimonense,2,1
+21/09/2018,Boavista,Chaves,1,2
+22/09/2018,Maritimo,Belenenses,0,0
+22/09/2018,Santa Clara,Rio Ave,1,3
+22/09/2018,Setubal,Porto,0,2
+23/09/2018,Benfica,Aves,2,0
+23/09/2018,Feirense,Nacional,0,0
+23/09/2018,Portimonense,Guimaraes,3,2
+23/09/2018,Tondela,Moreirense,2,0
+24/09/2018,Sp Braga,Sp Lisbon,1,0
+27/09/2018,Chaves,Benfica,2,2
+28/09/2018,Porto,Tondela,1,0
+29/09/2018,Moreirense,Feirense,1,0
+29/09/2018,Rio Ave,Boavista,2,1
+29/09/2018,Sp Lisbon,Maritimo,2,0
+30/09/2018,Belenenses,Sp Braga,0,3
+30/09/2018,Guimaraes,Setubal,1,1
+30/09/2018,Nacional,Santa Clara,0,3
+01/10/2018,Aves,Portimonense,3,0
+05/10/2018,Feirense,Belenenses,0,0
+05/10/2018,Santa Clara,Chaves,1,0
+05/10/2018,Tondela,Nacional,1,1
+06/10/2018,Maritimo,Guimaraes,1,3
+06/10/2018,Setubal,Moreirense,3,0
+06/10/2018,Sp Braga,Rio Ave,1,1
+07/10/2018,Benfica,Porto,1,0
+07/10/2018,Boavista,Aves,1,0
+07/10/2018,Portimonense,Sp Lisbon,4,2
+26/10/2018,Guimaraes,Sp Braga,1,1
+26/10/2018,Nacional,Portimonense,0,1
+27/10/2018,Aves,Santa Clara,1,2
+27/10/2018,Belenenses,Benfica,2,0
+27/10/2018,Rio Ave,Chaves,1,0
+28/10/2018,Moreirense,Maritimo,1,0
+28/10/2018,Porto,Feirense,2,0
+28/10/2018,Sp Lisbon,Boavista,3,0
+28/10/2018,Tondela,Setubal,1,2
+02/11/2018,Benfica,Moreirense,1,3
+03/11/2018,Boavista,Guimaraes,0,0
+03/11/2018,Maritimo,Porto,0,2
+03/11/2018,Portimonense,Belenenses,1,1
+04/11/2018,Feirense,Tondela,2,4
+04/11/2018,Santa Clara,Sp Lisbon,1,2
+04/11/2018,Sp Braga,Setubal,2,1
+05/11/2018,Chaves,Aves,1,2
+05/11/2018,Rio Ave,Nacional,3,3
+09/11/2018,Moreirense,Portimonense,2,0
+09/11/2018,Setubal,Feirense,2,1
+10/11/2018,Aves,Rio Ave,2,1
+10/11/2018,Belenenses,Boavista,0,0
+10/11/2018,Nacional,Maritimo,1,0
+10/11/2018,Porto,Sp Braga,1,0
+11/11/2018,Guimaraes,Santa Clara,2,0
+11/11/2018,Sp Lisbon,Chaves,2,1
+11/11/2018,Tondela,Benfica,1,3
+30/11/2018,Santa Clara,Belenenses,2,3
+01/12/2018,Benfica,Feirense,4,0
+01/12/2018,Maritimo,Setubal,0,1
+01/12/2018,Sp Braga,Moreirense,2,0
+02/12/2018,Aves,Nacional,2,3
+02/12/2018,Boavista,Porto,0,1
+02/12/2018,Chaves,Guimaraes,0,1
+02/12/2018,Portimonense,Tondela,3,2
+03/12/2018,Rio Ave,Sp Lisbon,1,3
+07/12/2018,Porto,Portimonense,4,1
+08/12/2018,Belenenses,Chaves,1,0
+08/12/2018,Setubal,Benfica,0,1
+08/12/2018,Tondela,Sp Braga,0,1
+09/12/2018,Guimaraes,Rio Ave,3,2
+09/12/2018,Moreirense,Santa Clara,0,1
+09/12/2018,Nacional,Boavista,0,0
+09/12/2018,Sp Lisbon,Aves,4,1
+10/12/2018,Feirense,Maritimo,1,1
+14/12/2018,Portimonense,Setubal,3,1
+14/12/2018,Sp Braga,Feirense,4,0
+15/12/2018,Aves,Guimaraes,1,1
+15/12/2018,Boavista,Tondela,2,0
+15/12/2018,Chaves,Moreirense,1,2
+15/12/2018,Santa Clara,Porto,1,2
+16/12/2018,Maritimo,Benfica,0,1
+16/12/2018,Rio Ave,Belenenses,2,2
+16/12/2018,Sp Lisbon,Nacional,5,2
+22/12/2018,Belenenses,Aves,5,2
+22/12/2018,Feirense,Portimonense,0,1
+22/12/2018,Moreirense,Boavista,2,1
+22/12/2018,Setubal,Santa Clara,0,2
+22/12/2018,Tondela,Maritimo,2,1
+23/12/2018,Benfica,Sp Braga,6,2
+23/12/2018,Guimaraes,Sp Lisbon,1,0
+23/12/2018,Nacional,Chaves,2,0
+23/12/2018,Porto,Rio Ave,2,1
+02/01/2019,Boavista,Setubal,1,0
+02/01/2019,Nacional,Guimaraes,1,0
+02/01/2019,Portimonense,Benfica,2,0
+02/01/2019,Rio Ave,Moreirense,1,2
+02/01/2019,Santa Clara,Tondela,1,2
+02/01/2019,Sp Braga,Maritimo,2,0
+03/01/2019,Aves,Porto,0,1
+03/01/2019,Chaves,Feirense,0,0
+03/01/2019,Sp Lisbon,Belenenses,2,1
+05/01/2019,Maritimo,Portimonense,2,1
+06/01/2019,Belenenses,Guimaraes,1,0
+06/01/2019,Benfica,Rio Ave,4,2
+06/01/2019,Feirense,Santa Clara,2,2
+06/01/2019,Setubal,Chaves,0,0
+06/01/2019,Sp Braga,Boavista,1,0
+07/01/2019,Moreirense,Aves,1,0
+07/01/2019,Porto,Nacional,3,1
+07/01/2019,Tondela,Sp Lisbon,2,1
+10/01/2019,Portimonense,Sp Braga,1,1
+11/01/2019,Aves,Feirense,1,1
+11/01/2019,Guimaraes,Moreirense,1,0
+11/01/2019,Santa Clara,Benfica,0,2
+12/01/2019,Boavista,Maritimo,0,1
+12/01/2019,Sp Lisbon,Porto,0,0
+13/01/2019,Chaves,Tondela,2,1
+13/01/2019,Nacional,Belenenses,0,1
+13/01/2019,Rio Ave,Setubal,1,1
+18/01/2019,Chaves,Porto,1,4
+18/01/2019,Guimaraes,Benfica,0,1
+18/01/2019,Nacional,Sp Braga,0,3
+19/01/2019,Belenenses,Tondela,2,2
+19/01/2019,Santa Clara,Maritimo,0,1
+19/01/2019,Sp Lisbon,Moreirense,2,1
+20/01/2019,Aves,Setubal,2,1
+20/01/2019,Boavista,Portimonense,0,2
+20/01/2019,Rio Ave,Feirense,0,0
+28/01/2019,Feirense,Guimaraes,1,2
+28/01/2019,Maritimo,Rio Ave,0,2
+28/01/2019,Moreirense,Nacional,2,1
+28/01/2019,Tondela,Aves,0,2
+29/01/2019,Benfica,Boavista,5,1
+29/01/2019,Portimonense,Chaves,0,1
+29/01/2019,Sp Braga,Santa Clara,1,0
+30/01/2019,Porto,Belenenses,3,0
+30/01/2019,Setubal,Sp Lisbon,1,1
+01/02/2019,Rio Ave,Tondela,2,2
+02/02/2019,Aves,Sp Braga,0,2
+02/02/2019,Boavista,Feirense,2,0
+02/02/2019,Chaves,Maritimo,1,0
+03/02/2019,Guimaraes,Porto,0,0
+03/02/2019,Nacional,Setubal,0,0
+03/02/2019,Santa Clara,Portimonense,2,1
+03/02/2019,Sp Lisbon,Benfica,2,4
+04/02/2019,Belenenses,Moreirense,0,1
+08/02/2019,Moreirense,Porto,1,1
+09/02/2019,Maritimo,Aves,0,1
+09/02/2019,Portimonense,Rio Ave,0,1
+09/02/2019,Tondela,Guimaraes,1,0
+10/02/2019,Benfica,Nacional,10,0
+10/02/2019,Boavista,Santa Clara,1,0
+10/02/2019,Feirense,Sp Lisbon,1,3
+10/02/2019,Sp Braga,Chaves,2,1
+11/02/2019,Setubal,Belenenses,0,0
+15/02/2019,Rio Ave,Santa Clara,1,2
+16/02/2019,Guimaraes,Portimonense,2,0
+16/02/2019,Nacional,Feirense,4,0
+16/02/2019,Porto,Setubal,2,0
+17/02/2019,Belenenses,Maritimo,0,1
+17/02/2019,Chaves,Boavista,1,1
+17/02/2019,Moreirense,Tondela,2,0
+17/02/2019,Sp Lisbon,Sp Braga,3,0
+18/02/2019,Aves,Benfica,0,3
+22/02/2019,Sp Braga,Belenenses,0,2
+22/02/2019,Tondela,Porto,0,3
+23/02/2019,Feirense,Moreirense,1,3
+23/02/2019,Portimonense,Aves,1,1
+23/02/2019,Setubal,Guimaraes,1,1
+24/02/2019,Boavista,Rio Ave,1,0
+24/02/2019,Santa Clara,Nacional,2,0
+25/02/2019,Benfica,Chaves,4,0
+25/02/2019,Maritimo,Sp Lisbon,0,0
+01/03/2019,Aves,Boavista,2,0
+02/03/2019,Moreirense,Setubal,1,1
+02/03/2019,Nacional,Tondela,3,2
+02/03/2019,Porto,Benfica,1,2
+03/03/2019,Belenenses,Feirense,4,0
+03/03/2019,Chaves,Santa Clara,0,0
+03/03/2019,Rio Ave,Sp Braga,1,2
+03/03/2019,Sp Lisbon,Portimonense,3,1
+04/03/2019,Guimaraes,Maritimo,1,0
+08/03/2019,Chaves,Rio Ave,1,1
+09/03/2019,Boavista,Sp Lisbon,1,2
+09/03/2019,Maritimo,Moreirense,3,2
+09/03/2019,Sp Braga,Guimaraes,1,0
+10/03/2019,Feirense,Porto,1,2
+10/03/2019,Portimonense,Nacional,5,1
+10/03/2019,Santa Clara,Aves,0,0
+10/03/2019,Setubal,Tondela,0,0
+11/03/2019,Benfica,Belenenses,2,2
+15/03/2019,Sp Lisbon,Santa Clara,1,0
+16/03/2019,Belenenses,Portimonense,2,2
+16/03/2019,Guimaraes,Boavista,3,1
+16/03/2019,Porto,Maritimo,3,0
+16/03/2019,Setubal,Sp Braga,0,1
+17/03/2019,Aves,Chaves,0,1
+17/03/2019,Moreirense,Benfica,0,4
+17/03/2019,Nacional,Rio Ave,0,1
+17/03/2019,Tondela,Feirense,1,1
+29/03/2019,Portimonense,Moreirense,0,2
+30/03/2019,Benfica,Tondela,1,0
+30/03/2019,Chaves,Sp Lisbon,1,3
+30/03/2019,Santa Clara,Guimaraes,1,0
+30/03/2019,Sp Braga,Porto,2,3
+31/03/2019,Boavista,Belenenses,2,0
+31/03/2019,Maritimo,Nacional,3,2
+31/03/2019,Rio Ave,Aves,0,2
+01/04/2019,Feirense,Setubal,0,1
+05/04/2019,Porto,Boavista,2,0
+06/04/2019,Belenenses,Santa Clara,1,1
+06/04/2019,Guimaraes,Chaves,4,0
+06/04/2019,Moreirense,Sp Braga,1,0
+06/04/2019,Nacional,Aves,0,0
+07/04/2019,Feirense,Benfica,1,4
+07/04/2019,Setubal,Maritimo,1,0
+07/04/2019,Sp Lisbon,Rio Ave,3,0
+08/04/2019,Tondela,Portimonense,,
