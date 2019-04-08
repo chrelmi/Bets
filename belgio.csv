@@ -1,0 +1,233 @@
+DATA,CASA,TRASFERTA,GOLCS,GOLTR
+27/07/2018,Standard,Gent,3,2
+28/07/2018,Kortrijk,Anderlecht,1,4
+28/07/2018,Oostende,Mouscron,2,1
+28/07/2018,St Truiden,Cercle Brugge,0,0
+28/07/2018,Waregem,Waasland-Beveren,2,2
+29/07/2018,Charleroi,Antwerp,0,1
+29/07/2018,Club Brugge,Eupen,5,2
+29/07/2018,Lokeren,Genk,0,4
+03/08/2018,Waasland-Beveren,Standard,0,0
+04/08/2018,Antwerp,Kortrijk,0,0
+04/08/2018,Cercle Brugge,Lokeren,3,2
+04/08/2018,Eupen,Charleroi,1,4
+04/08/2018,Gent,Waregem,1,1
+05/08/2018,Anderlecht,Oostende,5,2
+05/08/2018,Genk,St Truiden,1,1
+05/08/2018,Mouscron,Club Brugge,0,1
+10/08/2018,Club Brugge,Kortrijk,3,0
+11/08/2018,Mouscron,Antwerp,0,1
+11/08/2018,St Truiden,Lokeren,1,1
+11/08/2018,Standard,Cercle Brugge,0,0
+11/08/2018,Waregem,Eupen,4,0
+12/08/2018,Charleroi,Anderlecht,1,2
+12/08/2018,Gent,Waasland-Beveren,4,1
+12/08/2018,Oostende,Genk,0,2
+17/08/2018,Anderlecht,Mouscron,2,0
+18/08/2018,Cercle Brugge,Waregem,3,1
+18/08/2018,Kortrijk,Oostende,1,2
+18/08/2018,Lokeren,Standard,0,3
+18/08/2018,Waasland-Beveren,St Truiden,2,2
+19/08/2018,Antwerp,Club Brugge,1,1
+19/08/2018,Eupen,Gent,2,3
+19/08/2018,Genk,Charleroi,3,1
+24/08/2018,Oostende,Waregem,3,1
+25/08/2018,Antwerp,Cercle Brugge,1,0
+25/08/2018,Charleroi,Kortrijk,0,2
+25/08/2018,Mouscron,Eupen,0,1
+25/08/2018,Standard,St Truiden,3,2
+26/08/2018,Club Brugge,Anderlecht,2,1
+26/08/2018,Genk,Waasland-Beveren,3,2
+26/08/2018,Gent,Lokeren,2,1
+31/08/2018,Waregem,Club Brugge,2,5
+01/09/2018,Charleroi,Mouscron,3,1
+01/09/2018,Eupen,Standard,2,1
+01/09/2018,Lokeren,Waasland-Beveren,1,0
+01/09/2018,St Truiden,Oostende,1,0
+02/09/2018,Anderlecht,Antwerp,1,1
+02/09/2018,Cercle Brugge,Gent,0,3
+02/09/2018,Kortrijk,Genk,3,3
+14/09/2018,Club Brugge,Lokeren,2,1
+15/09/2018,Genk,Anderlecht,1,0
+15/09/2018,Oostende,Cercle Brugge,1,1
+15/09/2018,Standard,Charleroi,0,0
+15/09/2018,Waasland-Beveren,Eupen,0,0
+16/09/2018,Antwerp,Waregem,5,1
+16/09/2018,Gent,St Truiden,1,2
+16/09/2018,Mouscron,Kortrijk,1,0
+21/09/2018,Waregem,Kortrijk,0,2
+22/09/2018,Eupen,Oostende,1,2
+22/09/2018,Lokeren,Mouscron,0,0
+22/09/2018,St Truiden,Antwerp,2,0
+22/09/2018,Waasland-Beveren,Charleroi,1,1
+23/09/2018,Anderlecht,Standard,2,1
+23/09/2018,Cercle Brugge,Genk,2,5
+23/09/2018,Gent,Club Brugge,0,4
+28/09/2018,Kortrijk,Eupen,1,3
+29/09/2018,Charleroi,Lokeren,2,1
+29/09/2018,Club Brugge,Cercle Brugge,4,0
+29/09/2018,Genk,Waregem,4,0
+29/09/2018,Mouscron,Waasland-Beveren,0,3
+30/09/2018,Anderlecht,St Truiden,0,0
+30/09/2018,Antwerp,Gent,2,2
+30/09/2018,Oostende,Standard,1,3
+05/10/2018,Cercle Brugge,Charleroi,2,1
+06/10/2018,Eupen,Antwerp,1,2
+06/10/2018,Lokeren,Kortrijk,1,3
+06/10/2018,St Truiden,Mouscron,3,1
+06/10/2018,Waasland-Beveren,Oostende,1,1
+07/10/2018,Gent,Genk,1,5
+07/10/2018,Standard,Club Brugge,3,1
+07/10/2018,Waregem,Anderlecht,1,2
+19/10/2018,Club Brugge,Waasland-Beveren,1,1
+20/10/2018,Antwerp,Lokeren,2,1
+20/10/2018,Genk,Eupen,2,1
+20/10/2018,Kortrijk,St Truiden,3,1
+20/10/2018,Mouscron,Standard,0,0
+21/10/2018,Anderlecht,Cercle Brugge,4,2
+21/10/2018,Charleroi,Waregem,3,2
+21/10/2018,Oostende,Gent,0,4
+26/10/2018,Gent,Charleroi,2,1
+27/10/2018,Cercle Brugge,Kortrijk,1,1
+27/10/2018,Lokeren,Oostende,0,0
+27/10/2018,St Truiden,Club Brugge,2,2
+27/10/2018,Waregem,Mouscron,2,2
+28/10/2018,Eupen,Anderlecht,2,1
+28/10/2018,Standard,Genk,1,1
+28/10/2018,Waasland-Beveren,Antwerp,0,1
+30/10/2018,Charleroi,St Truiden,1,0
+30/10/2018,Club Brugge,Oostende,4,0
+30/10/2018,Mouscron,Gent,3,1
+31/10/2018,Antwerp,Genk,2,4
+31/10/2018,Eupen,Cercle Brugge,2,0
+31/10/2018,Kortrijk,Waasland-Beveren,2,2
+01/11/2018,Anderlecht,Lokeren,1,1
+01/11/2018,Waregem,Standard,3,1
+02/11/2018,Oostende,Charleroi,2,1
+03/11/2018,Cercle Brugge,Mouscron,2,1
+03/11/2018,Genk,Club Brugge,1,1
+03/11/2018,Gent,Kortrijk,3,1
+04/11/2018,Lokeren,Eupen,2,0
+04/11/2018,St Truiden,Waregem,2,1
+04/11/2018,Standard,Antwerp,0,2
+04/11/2018,Waasland-Beveren,Anderlecht,1,2
+09/11/2018,Antwerp,Oostende,2,0
+10/11/2018,Cercle Brugge,Waasland-Beveren,2,0
+10/11/2018,Charleroi,Club Brugge,2,1
+10/11/2018,Eupen,St Truiden,1,4
+10/11/2018,Waregem,Lokeren,2,0
+11/11/2018,Anderlecht,Gent,2,0
+11/11/2018,Kortrijk,Standard,0,2
+11/11/2018,Mouscron,Genk,0,0
+23/11/2018,Club Brugge,Waregem,1,3
+24/11/2018,Genk,Cercle Brugge,1,2
+24/11/2018,Oostende,Kortrijk,1,2
+24/11/2018,Standard,Eupen,3,0
+24/11/2018,Waasland-Beveren,Mouscron,1,2
+25/11/2018,Gent,Antwerp,0,0
+25/11/2018,Lokeren,Charleroi,2,4
+25/11/2018,St Truiden,Anderlecht,4,2
+30/11/2018,Lokeren,Gent,2,2
+01/12/2018,Antwerp,St Truiden,1,3
+01/12/2018,Charleroi,Cercle Brugge,3,1
+01/12/2018,Kortrijk,Mouscron,1,0
+01/12/2018,Waregem,Oostende,1,1
+02/12/2018,Anderlecht,Genk,0,1
+02/12/2018,Club Brugge,Standard,3,0
+02/12/2018,Eupen,Waasland-Beveren,1,0
+07/12/2018,Waasland-Beveren,Club Brugge,2,1
+08/12/2018,Genk,Kortrijk,1,1
+08/12/2018,Mouscron,Waregem,0,0
+08/12/2018,Oostende,Lokeren,1,0
+08/12/2018,St Truiden,Standard,1,1
+09/12/2018,Anderlecht,Charleroi,1,1
+09/12/2018,Cercle Brugge,Antwerp,0,3
+09/12/2018,Gent,Eupen,2,0
+14/12/2018,Charleroi,Gent,2,0
+15/12/2018,Antwerp,Waasland-Beveren,0,2
+15/12/2018,Eupen,Mouscron,1,0
+15/12/2018,Kortrijk,Club Brugge,0,0
+15/12/2018,Lokeren,St Truiden,2,0
+16/12/2018,Cercle Brugge,Anderlecht,2,1
+16/12/2018,Genk,Oostende,2,0
+16/12/2018,Standard,Waregem,4,1
+21/12/2018,Gent,Cercle Brugge,4,1
+22/12/2018,Mouscron,Anderlecht,3,1
+22/12/2018,St Truiden,Kortrijk,0,0
+22/12/2018,Standard,Oostende,3,1
+22/12/2018,Waasland-Beveren,Lokeren,2,1
+23/12/2018,Club Brugge,Antwerp,5,1
+23/12/2018,Eupen,Genk,0,2
+23/12/2018,Waregem,Charleroi,3,1
+26/12/2018,Antwerp,Mouscron,2,1
+26/12/2018,Cercle Brugge,Eupen,0,1
+26/12/2018,Charleroi,Standard,0,1
+26/12/2018,Genk,Gent,3,1
+26/12/2018,Kortrijk,Waregem,4,2
+26/12/2018,Oostende,St Truiden,1,1
+27/12/2018,Anderlecht,Waasland-Beveren,3,0
+27/12/2018,Lokeren,Club Brugge,0,1
+18/01/2019,St Truiden,Genk,2,3
+19/01/2019,Eupen,Lokeren,4,1
+19/01/2019,Standard,Kortrijk,2,1
+19/01/2019,Waasland-Beveren,Cercle Brugge,1,1
+19/01/2019,Waregem,Antwerp,1,2
+20/01/2019,Club Brugge,Charleroi,0,1
+20/01/2019,Gent,Anderlecht,1,0
+20/01/2019,Mouscron,Oostende,2,1
+25/01/2019,Antwerp,Standard,1,1
+26/01/2019,Cercle Brugge,St Truiden,1,2
+26/01/2019,Charleroi,Waasland-Beveren,2,2
+26/01/2019,Genk,Mouscron,1,2
+26/01/2019,Lokeren,Waregem,0,3
+27/01/2019,Anderlecht,Eupen,2,1
+27/01/2019,Kortrijk,Gent,1,2
+27/01/2019,Oostende,Club Brugge,1,2
+01/02/2019,Mouscron,Charleroi,3,0
+02/02/2019,Kortrijk,Lokeren,2,1
+02/02/2019,Oostende,Antwerp,0,2
+02/02/2019,Waasland-Beveren,Genk,1,2
+02/02/2019,Waregem,Cercle Brugge,3,2
+03/02/2019,Club Brugge,Gent,1,1
+03/02/2019,St Truiden,Eupen,4,1
+03/02/2019,Standard,Anderlecht,2,1
+08/02/2019,Genk,Standard,2,0
+09/02/2019,Charleroi,Oostende,1,1
+09/02/2019,Eupen,Kortrijk,0,1
+09/02/2019,Lokeren,Antwerp,2,1
+09/02/2019,St Truiden,Waasland-Beveren,2,1
+10/02/2019,Anderlecht,Waregem,0,0
+10/02/2019,Cercle Brugge,Club Brugge,2,2
+10/02/2019,Gent,Mouscron,1,2
+15/02/2019,Standard,Lokeren,3,1
+16/02/2019,Kortrijk,Charleroi,1,2
+16/02/2019,Oostende,Eupen,1,1
+16/02/2019,Waasland-Beveren,Gent,2,1
+16/02/2019,Waregem,St Truiden,1,1
+17/02/2019,Antwerp,Anderlecht,0,1
+17/02/2019,Club Brugge,Genk,3,1
+17/02/2019,Mouscron,Cercle Brugge,3,0
+22/02/2019,Gent,Standard,2,1
+23/02/2019,Cercle Brugge,Oostende,2,2
+23/02/2019,Eupen,Waregem,2,3
+23/02/2019,Mouscron,Lokeren,1,0
+23/02/2019,Waasland-Beveren,Kortrijk,2,6
+24/02/2019,Anderlecht,Club Brugge,2,2
+24/02/2019,Genk,Antwerp,0,0
+24/02/2019,St Truiden,Charleroi,3,1
+01/03/2019,Standard,Mouscron,1,1
+02/03/2019,Charleroi,Genk,1,1
+02/03/2019,Club Brugge,St Truiden,1,0
+02/03/2019,Kortrijk,Cercle Brugge,2,1
+02/03/2019,Oostende,Waasland-Beveren,1,1
+03/03/2019,Antwerp,Eupen,2,1
+03/03/2019,Lokeren,Anderlecht,1,2
+03/03/2019,Waregem,Gent,1,3
+10/03/2019,Anderlecht,Kortrijk,2,0
+10/03/2019,Antwerp,Charleroi,1,2
+10/03/2019,Cercle Brugge,Standard,1,2
+10/03/2019,Eupen,Club Brugge,0,4
+10/03/2019,Genk,Lokeren,1,0
+10/03/2019,Gent,Oostende,2,1
+10/03/2019,Mouscron,St Truiden,1,1
+10/03/2019,Waasland-Beveren,Waregem,1,1
