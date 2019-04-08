@@ -1,0 +1,244 @@
+DATA,CASA,TRASFERTA,GOLCS,GOLTR
+10/08/2018,Ankaragucu,Galatasaray,1,3
+11/08/2018,Fenerbahce,Bursaspor,2,1
+11/08/2018,Rizespor,Kasimpasa,2,3
+11/08/2018,Sivasspor,Alanyaspor,1,0
+12/08/2018,Besiktas,Akhisar Belediyespor,2,1
+12/08/2018,Buyuksehyr,Trabzonspor,2,0
+12/08/2018,Goztep,Yeni Malatyaspor,1,3
+12/08/2018,Konyaspor,Erzurum BB,3,2
+13/08/2018,Kayserispor,Antalyaspor,2,0
+17/08/2018,Trabzonspor,Sivasspor,3,1
+18/08/2018,Antalyaspor,Konyaspor,3,3
+18/08/2018,Bursaspor,Kayserispor,0,0
+18/08/2018,Yeni Malatyaspor,Fenerbahce,1,0
+19/08/2018,Akhisar Belediyespor,Rizespor,1,1
+19/08/2018,Alanyaspor,Ankaragucu,0,2
+19/08/2018,Erzurum BB,Besiktas,1,3
+19/08/2018,Galatasaray,Goztep,1,0
+20/08/2018,Kasimpasa,Buyuksehyr,2,1
+24/08/2018,Rizespor,Erzurum BB,0,0
+25/08/2018,Ankaragucu,Trabzonspor,2,2
+25/08/2018,Goztep,Fenerbahce,1,0
+25/08/2018,Kayserispor,Yeni Malatyaspor,0,0
+26/08/2018,Besiktas,Antalyaspor,2,3
+26/08/2018,Konyaspor,Bursaspor,1,1
+26/08/2018,Sivasspor,Kasimpasa,0,3
+27/08/2018,Buyuksehyr,Akhisar Belediyespor,3,1
+27/08/2018,Galatasaray,Alanyaspor,6,0
+31/08/2018,Yeni Malatyaspor,Konyaspor,0,1
+01/09/2018,Akhisar Belediyespor,Sivasspor,1,1
+01/09/2018,Alanyaspor,Goztep,1,0
+01/09/2018,Fenerbahce,Kayserispor,2,3
+01/09/2018,Trabzonspor,Galatasaray,4,0
+02/09/2018,Antalyaspor,Rizespor,2,1
+02/09/2018,Bursaspor,Besiktas,1,1
+02/09/2018,Erzurum BB,Buyuksehyr,0,1
+02/09/2018,Kasimpasa,Ankaragucu,2,1
+14/09/2018,Galatasaray,Kasimpasa,4,1
+15/09/2018,Ankaragucu,Akhisar Belediyespor,1,0
+15/09/2018,Besiktas,Yeni Malatyaspor,2,1
+15/09/2018,Goztep,Kayserispor,2,0
+16/09/2018,Buyuksehyr,Antalyaspor,4,0
+16/09/2018,Konyaspor,Fenerbahce,0,1
+16/09/2018,Rizespor,Bursaspor,1,1
+16/09/2018,Sivasspor,Erzurum BB,2,2
+17/09/2018,Alanyaspor,Trabzonspor,1,0
+21/09/2018,Bursaspor,Buyuksehyr,0,0
+21/09/2018,Erzurum BB,Ankaragucu,0,1
+22/09/2018,Kayserispor,Konyaspor,0,2
+22/09/2018,Trabzonspor,Goztep,1,2
+22/09/2018,Yeni Malatyaspor,Rizespor,1,0
+23/09/2018,Akhisar Belediyespor,Galatasaray,3,0
+23/09/2018,Antalyaspor,Sivasspor,2,1
+23/09/2018,Kasimpasa,Alanyaspor,1,2
+24/09/2018,Fenerbahce,Besiktas,1,1
+28/09/2018,Galatasaray,Erzurum BB,1,0
+29/09/2018,Alanyaspor,Akhisar Belediyespor,2,1
+29/09/2018,Besiktas,Kayserispor,2,0
+29/09/2018,Trabzonspor,Kasimpasa,4,2
+30/09/2018,Goztep,Konyaspor,3,2
+30/09/2018,Rizespor,Fenerbahce,3,0
+30/09/2018,Sivasspor,Bursaspor,2,0
+01/10/2018,Ankaragucu,Antalyaspor,0,1
+01/10/2018,Buyuksehyr,Yeni Malatyaspor,1,1
+05/10/2018,Kasimpasa,Goztep,3,1
+06/10/2018,Antalyaspor,Galatasaray,0,1
+06/10/2018,Bursaspor,Ankaragucu,1,0
+06/10/2018,Erzurum BB,Alanyaspor,1,0
+06/10/2018,Kayserispor,Rizespor,2,2
+07/10/2018,Akhisar Belediyespor,Trabzonspor,1,3
+07/10/2018,Fenerbahce,Buyuksehyr,0,0
+07/10/2018,Konyaspor,Besiktas,2,2
+07/10/2018,Yeni Malatyaspor,Sivasspor,4,4
+19/10/2018,Galatasaray,Bursaspor,1,1
+20/10/2018,Buyuksehyr,Kayserispor,1,0
+20/10/2018,Kasimpasa,Akhisar Belediyespor,5,0
+20/10/2018,Sivasspor,Fenerbahce,0,0
+21/10/2018,Alanyaspor,Antalyaspor,0,1
+21/10/2018,Ankaragucu,Yeni Malatyaspor,1,0
+21/10/2018,Goztep,Besiktas,2,0
+21/10/2018,Rizespor,Konyaspor,1,1
+22/10/2018,Trabzonspor,Erzurum BB,0,0
+26/10/2018,Bursaspor,Alanyaspor,2,0
+27/10/2018,Antalyaspor,Trabzonspor,1,1
+27/10/2018,Erzurum BB,Kasimpasa,1,1
+27/10/2018,Konyaspor,Buyuksehyr,0,1
+28/10/2018,Fenerbahce,Ankaragucu,1,3
+28/10/2018,Kayserispor,Sivasspor,2,0
+28/10/2018,Yeni Malatyaspor,Galatasaray,2,0
+29/10/2018,Akhisar Belediyespor,Goztep,1,0
+29/10/2018,Besiktas,Rizespor,4,1
+02/11/2018,Galatasaray,Fenerbahce,2,2
+03/11/2018,Akhisar Belediyespor,Erzurum BB,1,1
+03/11/2018,Buyuksehyr,Besiktas,1,0
+03/11/2018,Kasimpasa,Antalyaspor,1,2
+04/11/2018,Alanyaspor,Yeni Malatyaspor,0,1
+04/11/2018,Ankaragucu,Kayserispor,3,1
+04/11/2018,Trabzonspor,Bursaspor,1,1
+05/11/2018,Goztep,Rizespor,2,0
+05/11/2018,Sivasspor,Konyaspor,0,0
+09/11/2018,Yeni Malatyaspor,Trabzonspor,5,0
+10/11/2018,Erzurum BB,Goztep,2,1
+10/11/2018,Kayserispor,Galatasaray,0,3
+10/11/2018,Konyaspor,Ankaragucu,2,0
+10/11/2018,Rizespor,Buyuksehyr,1,2
+11/11/2018,Antalyaspor,Akhisar Belediyespor,1,2
+11/11/2018,Besiktas,Sivasspor,1,2
+11/11/2018,Bursaspor,Kasimpasa,1,2
+11/11/2018,Fenerbahce,Alanyaspor,2,0
+23/11/2018,Galatasaray,Konyaspor,1,1
+24/11/2018,Alanyaspor,Kayserispor,5,0
+24/11/2018,Ankaragucu,Besiktas,1,4
+24/11/2018,Erzurum BB,Antalyaspor,1,0
+25/11/2018,Akhisar Belediyespor,Bursaspor,2,4
+25/11/2018,Kasimpasa,Yeni Malatyaspor,3,0
+25/11/2018,Sivasspor,Rizespor,1,1
+25/11/2018,Trabzonspor,Fenerbahce,2,1
+26/11/2018,Goztep,Buyuksehyr,0,2
+30/11/2018,Konyaspor,Alanyaspor,2,0
+30/11/2018,Rizespor,Ankaragucu,1,1
+01/12/2018,Antalyaspor,Goztep,1,0
+01/12/2018,Buyuksehyr,Sivasspor,0,1
+01/12/2018,Kayserispor,Trabzonspor,0,2
+02/12/2018,Besiktas,Galatasaray,1,0
+02/12/2018,Bursaspor,Erzurum BB,2,1
+03/12/2018,Fenerbahce,Kasimpasa,2,2
+03/12/2018,Yeni Malatyaspor,Akhisar Belediyespor,1,1
+07/12/2018,Alanyaspor,Besiktas,0,0
+08/12/2018,Galatasaray,Rizespor,2,2
+08/12/2018,Sivasspor,Goztep,2,0
+08/12/2018,Trabzonspor,Konyaspor,3,0
+09/12/2018,Akhisar Belediyespor,Fenerbahce,3,0
+09/12/2018,Bursaspor,Antalyaspor,0,2
+09/12/2018,Erzurum BB,Yeni Malatyaspor,1,3
+10/12/2018,Ankaragucu,Buyuksehyr,0,1
+10/12/2018,Kasimpasa,Kayserispor,0,3
+14/12/2018,Goztep,Bursaspor,0,0
+15/12/2018,Buyuksehyr,Galatasaray,1,1
+15/12/2018,Konyaspor,Kasimpasa,3,2
+15/12/2018,Rizespor,Alanyaspor,1,1
+15/12/2018,Sivasspor,Ankaragucu,4,0
+16/12/2018,Besiktas,Trabzonspor,2,2
+16/12/2018,Kayserispor,Akhisar Belediyespor,1,0
+16/12/2018,Yeni Malatyaspor,Antalyaspor,2,0
+17/12/2018,Fenerbahce,Erzurum BB,2,2
+22/12/2018,Alanyaspor,Buyuksehyr,1,1
+22/12/2018,Ankaragucu,Goztep,0,3
+22/12/2018,Kasimpasa,Besiktas,4,1
+23/12/2018,Bursaspor,Yeni Malatyaspor,1,1
+23/12/2018,Erzurum BB,Kayserispor,1,1
+23/12/2018,Galatasaray,Sivasspor,4,2
+23/12/2018,Trabzonspor,Rizespor,4,1
+24/12/2018,Akhisar Belediyespor,Konyaspor,0,0
+24/12/2018,Antalyaspor,Fenerbahce,0,0
+18/01/2019,Akhisar Belediyespor,Besiktas,1,3
+19/01/2019,Antalyaspor,Kayserispor,0,0
+19/01/2019,Erzurum BB,Konyaspor,1,2
+19/01/2019,Galatasaray,Ankaragucu,6,0
+19/01/2019,Yeni Malatyaspor,Goztep,3,2
+20/01/2019,Alanyaspor,Sivasspor,2,0
+20/01/2019,Trabzonspor,Buyuksehyr,2,4
+21/01/2019,Bursaspor,Fenerbahce,1,1
+21/01/2019,Kasimpasa,Rizespor,0,1
+25/01/2019,Besiktas,Erzurum BB,1,1
+26/01/2019,Goztep,Galatasaray,0,1
+26/01/2019,Kayserispor,Bursaspor,1,1
+27/01/2019,Konyaspor,Antalyaspor,2,0
+27/01/2019,Rizespor,Akhisar Belediyespor,3,1
+27/01/2019,Sivasspor,Trabzonspor,1,1
+28/01/2019,Ankaragucu,Alanyaspor,0,2
+28/01/2019,Buyuksehyr,Kasimpasa,2,0
+28/01/2019,Fenerbahce,Yeni Malatyaspor,3,2
+01/02/2019,Fenerbahce,Goztep,2,0
+02/02/2019,Alanyaspor,Galatasaray,1,1
+02/02/2019,Kasimpasa,Sivasspor,1,3
+02/02/2019,Trabzonspor,Ankaragucu,1,0
+02/02/2019,Yeni Malatyaspor,Kayserispor,1,1
+03/02/2019,Akhisar Belediyespor,Buyuksehyr,0,3
+03/02/2019,Antalyaspor,Besiktas,2,6
+03/02/2019,Erzurum BB,Rizespor,0,1
+04/02/2019,Bursaspor,Konyaspor,0,0
+08/02/2019,Kayserispor,Fenerbahce,1,0
+09/02/2019,Besiktas,Bursaspor,2,0
+09/02/2019,Buyuksehyr,Erzurum BB,1,1
+09/02/2019,Rizespor,Antalyaspor,1,1
+10/02/2019,Galatasaray,Trabzonspor,3,1
+10/02/2019,Goztep,Alanyaspor,3,2
+10/02/2019,Konyaspor,Yeni Malatyaspor,1,1
+11/02/2019,Ankaragucu,Kasimpasa,3,0
+11/02/2019,Sivasspor,Akhisar Belediyespor,2,1
+15/02/2019,Yeni Malatyaspor,Besiktas,1,2
+16/02/2019,Akhisar Belediyespor,Ankaragucu,0,0
+16/02/2019,Bursaspor,Rizespor,0,2
+16/02/2019,Fenerbahce,Konyaspor,1,1
+17/02/2019,Erzurum BB,Sivasspor,4,2
+17/02/2019,Kasimpasa,Galatasaray,1,4
+17/02/2019,Kayserispor,Goztep,2,1
+17/02/2019,Trabzonspor,Alanyaspor,0,2
+18/02/2019,Antalyaspor,Buyuksehyr,0,1
+22/02/2019,Goztep,Trabzonspor,1,3
+22/02/2019,Rizespor,Yeni Malatyaspor,3,0
+23/02/2019,Alanyaspor,Kasimpasa,3,0
+23/02/2019,Buyuksehyr,Bursaspor,3,0
+23/02/2019,Sivasspor,Antalyaspor,1,2
+24/02/2019,Ankaragucu,Erzurum BB,2,1
+24/02/2019,Galatasaray,Akhisar Belediyespor,1,0
+24/02/2019,Konyaspor,Kayserispor,0,1
+25/02/2019,Besiktas,Fenerbahce,3,3
+01/03/2019,Antalyaspor,Ankaragucu,2,4
+02/03/2019,Bursaspor,Sivasspor,3,2
+02/03/2019,Fenerbahce,Rizespor,3,2
+02/03/2019,Kayserispor,Besiktas,2,2
+03/03/2019,Erzurum BB,Galatasaray,1,1
+03/03/2019,Konyaspor,Goztep,1,1
+03/03/2019,Yeni Malatyaspor,Buyuksehyr,0,2
+04/03/2019,Akhisar Belediyespor,Alanyaspor,3,1
+04/03/2019,Kasimpasa,Trabzonspor,2,2
+08/03/2019,Sivasspor,Yeni Malatyaspor,2,0
+09/03/2019,Ankaragucu,Bursaspor,0,0
+09/03/2019,Buyuksehyr,Fenerbahce,2,1
+09/03/2019,Trabzonspor,Akhisar Belediyespor,2,1
+10/03/2019,Alanyaspor,Erzurum BB,2,1
+10/03/2019,Besiktas,Konyaspor,3,2
+10/03/2019,Goztep,Kasimpasa,0,0
+10/03/2019,Rizespor,Kayserispor,3,0
+11/03/2019,Galatasaray,Antalyaspor,5,0
+15/03/2019,Fenerbahce,Sivasspor,2,1
+16/03/2019,Akhisar Belediyespor,Kasimpasa,2,3
+16/03/2019,Antalyaspor,Alanyaspor,3,0
+16/03/2019,Besiktas,Goztep,1,0
+16/03/2019,Erzurum BB,Trabzonspor,0,1
+16/03/2019,Konyaspor,Rizespor,0,2
+17/03/2019,Bursaspor,Galatasaray,2,3
+17/03/2019,Kayserispor,Buyuksehyr,1,1
+17/03/2019,Yeni Malatyaspor,Ankaragucu,3,1
+05/04/2019,Trabzonspor,Antalyaspor,4,1
+06/04/2019,Alanyaspor,Bursaspor,1,0
+06/04/2019,Galatasaray,Yeni Malatyaspor,3,0
+06/04/2019,Sivasspor,Kayserispor,1,3
+07/04/2019,Ankaragucu,Fenerbahce,1,1
+07/04/2019,Buyuksehyr,Konyaspor,2,0
+07/04/2019,Goztep,Akhisar Belediyespor,0,1
+07/04/2019,Kasimpasa,Erzurum BB,2,1
+08/04/2019,Rizespor,Besiktas,,
