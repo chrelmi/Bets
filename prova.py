@@ -14,7 +14,6 @@ from tkinter import *
 window=Tk()
 window.title("Picchetto tecnico")
 window.geometry("800x400")
-window.mainloop()
 
 
 countcs=0
@@ -137,7 +136,15 @@ quotax=str(quotax)
 picchettox=str(picchettox)
 picchettocs=str(picchettocs)
 picchettotr=str(picchettotr)
+stampa="QUOTE FINALI:     1       X       2"+"\n                "+quotacasa+"    "+quotax+"     "+quotatr
 print("Pic 1: "+picchettocs+"%"+"\nPic X: "+picchettox+"%"+"\nPic 2: "+picchettotr+"%")
 print("QUOTE FINALI:     1       X       2")
 print("                "+quotacasa+"    "+quotax+"     "+quotatr)
-
+window.configure(background="#000000")
+l=tkinter.Label(window,text=stampa,bg="#000000",fg="#FFFFFF")
+l.config(font=("Noto Sans Mono CJK JP Bold", 24))
+l.grid(row=0,column=0, padx=50)
+t=tkinter.Label(window, bg="#000000", fg="#FFFFFF")
+t.config(font=("Courier 10 Pitch",32))
+t.grid(row=2,column=0)
+window.mainloop()
