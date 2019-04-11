@@ -24,7 +24,44 @@ camp=" "
 file=" "
 squadracs=" "
 squadratr=" "
+nomefile=" "
+storicou=""
+storicod=""
 
+def stampaS():
+	pan=Tk()
+	pan.geometry("900x750")
+	pan.configure(background="#000000")
+	pan.title("STORICO")	
+	label=tkinter.Label(pan,text=storicou,bg="#000000",fg="#FFFFFF")
+	label.config(font=("Noto Sans Mono CJK JP Bold", 11))	
+	label.config(justify=LEFT)
+	label.grid(row=0,column=0,padx=10)
+	label2=tkinter.Label(pan,text=storicod,bg="#000000",fg="#FFFFFF")
+	label2.config(font=("Noto Sans Mono CJK JP Bold", 11))	
+	label2.config(justify=LEFT,padx=400)
+	label2.grid(row=0,column=1)
+	pan.mainloop()
+def elenco():
+	print("elenco..."+nomefile)
+	camp=nomefile
+	pan=Tk()
+	pan.geometry("300x800")
+	pan.configure(background="#000000")
+	a=""
+	camp=re.sub(".csv","",camp)
+	pan.title("Elenco campionato: "+camp)
+	print("CAMPIONATO: "+camp)
+	with open('elenco.csv') as csvfile:
+		r=csv.DictReader(csvfile)
+		a=a+camp+"\n\n"
+		for row in r:
+			a=a+row[camp]+"\n"
+	label=tkinter.Label(pan,text=a,bg="#000000",fg="#FFFFFF")
+	label.config(font=("Noto Sans Mono CJK JP Bold", 14))
+	label.config(justify=LEFT)
+	label.pack()
+	pan.mainloop()
 def seriea():
 	camp="italiaA.csv"
 	update(camp)
@@ -64,8 +101,10 @@ def primiera():
 def eredivise():
 	camp="olanda.csv"
 	update(camp)
-def update(file):
+def update(file):	
 	print(file)
+	global nomefile
+	nomefile=file
 	l=tkinter.Label(root,text="Quota 1",bg="#000000",fg="#FFFFFF")
 	l.config(font=("Noto Sans Mono CJK JP Bold", 20))
 	l.grid(row=0,column=3, padx=10)
@@ -89,6 +128,8 @@ def update(file):
 	b=Button(root, text="Invia", width=10, command=lambda:callback(file,squadracs,squadratr))
 	b.grid(row=2,column=0,columnspan=2)
 def callback(file,squadracs,squadratr):
+	global storicou
+	global storicod
 	squadracs=tkinter.StringVar()
 	squadracs=e4.get()
 	print(squadracs)
@@ -123,6 +164,7 @@ def callback(file,squadracs,squadratr):
 				golcs=row['GOLCS']
 				goltr=row['GOLTR']
 				print(data+"  "+casa+"-"+trasferta+" "+golcs+"-"+goltr)
+				storicou=storicou+data+"  "+casa+"-"+trasferta+" "+golcs+"-"+goltr+"\n"
 				if squadracs in casa:
 					countcs=countcs+1
 					if golcs>goltr:
@@ -142,6 +184,7 @@ def callback(file,squadracs,squadratr):
 				golcs=row['GOLCS']
 				goltr=row['GOLTR']
 				print(data+"  "+casa+"-"+trasferta+" "+golcs+"-"+goltr)
+				storicod=storicod+data+"  "+casa+"-"+trasferta+" "+golcs+"-"+goltr+"\n"
 				if squadratr in trasferta:
 					countr=countr+1
 					if goltr<golcs:
@@ -189,9 +232,8 @@ def callback(file,squadracs,squadratr):
 	pc=countpcs
 	countcs=str(countcs)
 	countvc=str(countvc)
-	countpcs=str(countpcs)
-	
-	storico1.config(text="Partite totali in casa "+squadracs+": "+"\nPartite vinte in casa "+squadracs+": "+"\nPartite perse in casa "+squadracs+": ",font=("Noto Sans Mono CJK JP Bold", 16))
+	countpcs=str(countpcs)	
+	storico1.config(text=" Partite totali in casa "+squadracs+": "+"\nPartite vinte in casa "+squadracs+": "+"\nPartite perse in casa "+squadracs+": ",font=("Noto Sans Mono CJK JP Bold", 16))
 	storico1.grid(row=5,column=0,columnspan=2,sticky=W)
 	ris1.config(text=countcs+"\n"+countvc+"\n"+countpcs,bg="#000000",fg="#FFFFFF")
 	ris1.config(font=("Noto Sans Mono CJK JP Bold", 16))
@@ -203,7 +245,7 @@ def callback(file,squadracs,squadratr):
 	countr=str(countr)
 	countvtr=str(countvtr)
 	countptr=str(countptr)
-	storico2.config(text="Partite totali in trasferta "+squadratr+": "+"\nPartite vinte in trasferta "+squadratr+": "+"\nPartite perse in trasferta "+squadratr+": ",font=("Noto Sans Mono CJK JP Bold", 16))
+	storico2.config(text=" Partite totali in trasferta "+squadratr+": "+"\nPartite vinte in trasferta "+squadratr+": "+"\nPartite perse in trasferta "+squadratr+": ",font=("Noto Sans Mono CJK JP Bold", 16))
 	storico2.grid(row=6,column=0,columnspan=2,sticky=W,pady=10)
 	ris2.config(text=countr+"\n"+countvtr+"\n"+countptr,bg="#000000",fg="#FFFFFF")
 	ris2.config(font=("Noto Sans Mono CJK JP Bold", 16))
@@ -251,33 +293,44 @@ root.title("Calcolatore Picchetto Tecnico")
 menu=Menu(root)
 root.config(menu=menu)
 subMenu=Menu(menu)
-menu.add_cascade(label="Campionati", menu=subMenu)
+menuFile=Menu(menu)
+menuSto=Menu(menu)
+menu.add_cascade(label="File",menu=menuFile)
+menu.add_cascade(label="Modifica", menu=subMenu)
+menu.add_cascade(label="Storico", menu=menuSto)
+menuFile.add_command(label="Mostra elenco squadre",command=elenco)
+menuSto.add_command(label="Mostra Storico",command=stampaS)
 subMenu.add_command(label="Serie A(ITA)",command=seriea)
 subMenu.add_command(label="Serie B (ITA)",command=serieb)
 subMenu.add_separator()
 subMenu.add_command(label="Premier League (ING)",command=premier)
+subMenu.add_separator()
 subMenu.add_command(label="Ligue 1 (FRA)",command=ligue1)
+subMenu.add_separator()
 subMenu.add_command(label="Bundesliga (GER)",command=bundes)
+subMenu.add_separator()
 subMenu.add_command(label="LaLiga (SPA)",command=laliga)
+subMenu.add_separator()
 subMenu.add_command(label="Jupiler League (BEL)",command=jupiler)
+subMenu.add_separator()
 subMenu.add_command(label="HNL (CRO)",command=hnl)
+subMenu.add_separator()
 subMenu.add_command(label="Super League (GRE)",command=superleague)
+subMenu.add_separator()
 subMenu.add_command(label="Super Lig (TUR)",command=superlig)
+subMenu.add_separator()
 subMenu.add_command(label="Premier League (RUS)",command=premierR)
+subMenu.add_separator()
 subMenu.add_command(label="Primiera Liga (POR)",command=primiera)
+subMenu.add_separator()
 subMenu.add_command(label="Eredivise (HOL)",command=eredivise)
 editMenu=Menu(menu)
 root.configure(background="#000000")
 e1=Entry(root)
-#e1.grid(row=0,column=3)
 e2=Entry(root)
-#e2.grid(row=1,column=3)
 e3=Entry(root)
-#e3.grid(row=2,column=3)
 e4=Entry(root)
-#e4.grid(row=0,column=1) #Squadra Casa
 e5=Entry(root)
-#e5.grid(row=1,column=1) #squadra Ospite
 storico1=tkinter.Label(root,text=" ",bg="#000000",fg="#FFFFFF")
 ris1=tkinter.Label(root,text=" ",bg="#000000",fg="#FFFFFF")
 storico2=tkinter.Label(root,text="",bg="#000000",fg="#FFFFFF")
