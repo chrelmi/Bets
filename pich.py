@@ -30,7 +30,7 @@ storicod=""
 
 def stampaS():
 	pan=Tk()
-	pan.geometry("900x750")
+	pan.geometry("950x750")
 	pan.configure(background="#000000")
 	pan.title("STORICO")	
 	label=tkinter.Label(pan,text=storicou,bg="#000000",fg="#FFFFFF")
@@ -39,7 +39,7 @@ def stampaS():
 	label.grid(row=0,column=0,padx=10)
 	label2=tkinter.Label(pan,text=storicod,bg="#000000",fg="#FFFFFF")
 	label2.config(font=("Noto Sans Mono CJK JP Bold", 11))	
-	label2.config(justify=LEFT,padx=400)
+	label2.config(justify=LEFT,padx=370)
 	label2.grid(row=0,column=1)
 	pan.mainloop()
 def elenco():
@@ -286,6 +286,7 @@ def callback(file,squadracs,squadratr):
 	print("Pic 1: "+picchettocs+"%"+"\nPic X: "+picchettox+"%"+"\nPic 2: "+picchettotr+"%")
 	print("QUOTE FINALI:     1       X       2")
 	print("                "+quotacasa+"    "+quotax+"     "+quotatr)
+	
 #Definizione grafica
 root=Tk()
 root.geometry("800x600")
