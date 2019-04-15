@@ -194,10 +194,13 @@ def callback(file,squadracs,squadratr):
 	print("----------------------------------------------------------------------------------------------")
 	#calcolo quote reali
 	uno=e1.get() #input("Quota 1: ") #e1
+	unor=uno
 	uno=float(uno)
 	x=e2.get() #input("Quota x: ") #e2
+	xr=x
 	x=float(x)
 	due=e3.get() #input("Quota 2: ") #e3
+	duer=due
 	due=float(due)
 	uno=100/uno
 	x=100/x
@@ -271,12 +274,12 @@ def callback(file,squadracs,squadratr):
 	quotax=round(quotax,2)
 	quotax=str(quotax)
 	#stampe
-	picchettox=str(picchettox)
-	picchettocs=str(picchettocs)
-	picchettotr=str(picchettotr)
-	luno1=tkinter.Label(root,text="Quota 1\n"+picchettocs+"%"+"\n"+quotacasa,bg="#000000",fg="#FFFFFF")
-	lx1=tkinter.Label(root,text="Quota X\n"+picchettox+"%"+"\n"+quotax,bg="#000000",fg="#FFFFFF")
-	ldue1=tkinter.Label(root,text="Quota 2\n"+picchettotr+"%"+"\n"+quotatr,bg="#000000",fg="#FFFFFF")
+	picchettox=str(picchettox)+"%"
+	picchettocs=str(picchettocs)+"%"
+	picchettotr=str(picchettotr)+"%"
+	luno1=tkinter.Label(root,text="Quota 1\n"+picchettocs+"\n"+quotacasa,bg="#000000",fg="#FFFFFF")
+	lx1=tkinter.Label(root,text="Quota X\n"+picchettox+"\n"+quotax,bg="#000000",fg="#FFFFFF")
+	ldue1=tkinter.Label(root,text="Quota 2\n"+picchettotr+"\n"+quotatr,bg="#000000",fg="#FFFFFF")
 	luno1.config(font=("Noto Sans Mono CJK JP Bold", 16))
 	lx1.config(font=("Noto Sans Mono CJK JP Bold", 16))
 	ldue1.config(font=("Noto Sans Mono CJK JP Bold", 16))
@@ -286,6 +289,10 @@ def callback(file,squadracs,squadratr):
 	print("Pic 1: "+picchettocs+"%"+"\nPic X: "+picchettox+"%"+"\nPic 2: "+picchettotr+"%")
 	print("QUOTE FINALI:     1       X       2")
 	print("                "+quotacasa+"    "+quotax+"     "+quotatr)
+	#creazione file
+	riepilogo=squadracs+","+squadratr+","+unor+","+xr+","+duer+","+quotacasa+","+quotax+","+quotatr+","+picchettocs+","+picchettox+","+picchettotr+"\n"
+	filerisult=open("risultati.csv","a")
+	filerisult.write(riepilogo)
 	
 #Definizione grafica
 root=Tk()
@@ -337,3 +344,4 @@ ris1=tkinter.Label(root,text=" ",bg="#000000",fg="#FFFFFF")
 storico2=tkinter.Label(root,text="",bg="#000000",fg="#FFFFFF")
 ris2=tkinter.Label(root,text=" ",bg="#000000",fg="#FFFFFF")
 root.mainloop()
+filerisult.close()
