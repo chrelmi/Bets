@@ -30,14 +30,18 @@ storicod=""
 
 def stampaS():
 	pan=Tk()
+	print(storicou)
+	print(storicod)	
+	label=tkinter.Label(pan,text=" ",bg="#000000",fg="#FFFFFF")
+	label2=tkinter.Label(pan,text=" ",bg="#000000",fg="#FFFFFF")
 	pan.geometry("950x750")
 	pan.configure(background="#000000")
 	pan.title("STORICO")	
-	label=tkinter.Label(pan,text=storicou,bg="#000000",fg="#FFFFFF")
+	label.config(text=storicou)
 	label.config(font=("Noto Sans Mono CJK JP Bold", 11))	
 	label.config(justify=LEFT)
 	label.grid(row=0,column=0,padx=10)
-	label2=tkinter.Label(pan,text=storicod,bg="#000000",fg="#FFFFFF")
+	label2.config(text=storicod)
 	label2.config(font=("Noto Sans Mono CJK JP Bold", 11))	
 	label2.config(justify=LEFT,padx=370)
 	label2.grid(row=0,column=1)
@@ -130,6 +134,8 @@ def update(file):
 def callback(file,squadracs,squadratr):
 	global storicou
 	global storicod
+	storicou=""
+	storicod=""
 	squadracs=tkinter.StringVar()
 	squadracs=e4.get()
 	print(squadracs)
@@ -293,7 +299,7 @@ def callback(file,squadracs,squadratr):
 	riepilogo=squadracs+","+squadratr+","+unor+","+xr+","+duer+","+quotacasa+","+quotax+","+quotatr+","+picchettocs+","+picchettox+","+picchettotr+"\n"
 	filerisult=open("risultati.csv","a")
 	filerisult.write(riepilogo)
-	
+	filerisult.close()
 #Definizione grafica
 root=Tk()
 root.geometry("800x600")
@@ -344,4 +350,3 @@ ris1=tkinter.Label(root,text=" ",bg="#000000",fg="#FFFFFF")
 storico2=tkinter.Label(root,text="",bg="#000000",fg="#FFFFFF")
 ris2=tkinter.Label(root,text=" ",bg="#000000",fg="#FFFFFF")
 root.mainloop()
-filerisult.close()
