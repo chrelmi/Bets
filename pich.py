@@ -34,7 +34,13 @@ def stampaS():
 	print(storicod)	
 	label=tkinter.Label(pan,text=" ",bg="#000000",fg="#FFFFFF")
 	label2=tkinter.Label(pan,text=" ",bg="#000000",fg="#FFFFFF")
-	pan.geometry("900x750")
+	#pan.geometry("900x750")
+	l=root.winfo_screenwidth()
+	l=int(l)
+	a=root.winfo_screenheight()
+	a=int(a)
+	dim=str(l)+"x"+str(a)
+	pan.geometry(dim)
 	pan.configure(background="#000000")
 	pan.title("STORICO")
 	scrollbar=tkinter.Scrollbar(pan)
@@ -319,7 +325,16 @@ def callback(file,squadracs,squadratr):
 	filerisult.close()
 #Definizione grafica
 root=Tk()
-root.geometry("800x600")
+#root.geometry("800x600")
+l=root.winfo_screenwidth()
+l=l/2
+l=int(l)+200
+a=root.winfo_screenheight()
+a=a/2
+a=int(a)+100
+dim=str(l)+"x"+str(a)
+print(dim)
+root.geometry(dim)
 root.title("Calcolatore Picchetto Tecnico")
 menu=Menu(root)
 root.config(menu=menu)
